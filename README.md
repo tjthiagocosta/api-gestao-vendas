@@ -1,6 +1,6 @@
 ## API Restful com Node.js, Express, Typescript, TypeORM, Postgres, Redis, Docker, ...
 
-API para gestão de vendas com funcionalidades para criação de cadastrosde produtos, cadastro de clientes, pedidos de compras e uma completa gestão de usuários da aplicação.
+API para gestão de vendas com funcionalidades para criação de cadastro de produtos, cadastro de clientes, pedidos de compras e uma completa gestão de usuários da aplicação.
 
 
 ### Estrutura do Projeto
